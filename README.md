@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cong Giang</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">I'm a professional copy paste :))</h3>
 
 - ✍ I'm a student of: [VietNam - Korea University of Information and Communication Technology](http://vku.udn.vn/) (VKU).
 
 - 🌱 I’m currently learning **Information Technology.**
+
+- 
 
 
 ## 📫 How to reach me:
